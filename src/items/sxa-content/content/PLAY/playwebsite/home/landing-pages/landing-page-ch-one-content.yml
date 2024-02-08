@@ -3,7 +3,6 @@ ID: "a9a1c9e3-2f8f-4fd8-8108-521ecd783bbe"
 Parent: "4d587c56-3717-41cb-936c-5d0412a50b6b"
 Template: "95cb88e7-8068-4a9c-9eeb-05f9a22c49d4"
 Path: "/sitecore/content/PLAY/playwebsite/home/landing-pages/landing-page-ch-one-content"
-BranchID: "c21cb9f5-9d4c-4904-b199-538835128fa3"
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
@@ -23,7 +22,7 @@ SharedFields:
 - ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
   Hint: __Thumbnail
   Value: |
-    <image mediaid="{0C9B0818-798E-492F-8624-5F706BE13142}" />
+    <image mediaid="{9018AD6D-B684-40AA-8D76-A849B7DCFD19}" />
 - ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
   Hint: __Default workflow
   Value: "{8F0E1432-3729-462B-AD20-DAF067694BCB}"
@@ -129,7 +128,7 @@ Languages:
       Value: Content Hub ONE Components Example
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "1170e2b9-6cd6-44e0-b903-06ff62bfd1fb"
+      Value: "b3646f57-d414-4562-b9b9-b0123782db00"
     - ID: "e0c0c8a4-0fea-4963-8b86-d47810b80efa"
       Hint: Content
       Value: <p>The list of athletes on this page was created in Sitecore Components Builder and uses Content Hub ONE as a data source.</p>
